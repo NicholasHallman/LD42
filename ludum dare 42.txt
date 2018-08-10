@@ -1,0 +1,66 @@
+Running out of space
+   player is a chunk of memory running away from the garbage collector, need to get
+   to your programs space. running into viruses causes you to lose health (or data) 
+   running into other programs space causes an error and the garbage collector gets
+   faster
+
+Night is coming
+   3d game, you're a kid in a forest. a monster is after you. you need to get home
+   before the time runs out (I hate this theme)
+
+Decay
+   You are nature reclaiming a city. You get points over time and get to invest points
+   into rain, plant growth, animal migration etc. the goal is to leave the city in
+   ruins,
+
+Safe in the dark
+   A rogueish type character must sneak around places and steal stuff, you get a
+   rechargable hidding spell that you cast with space, when in shadows you become
+   invisible for a short time
+
+Fragile
+   you are a cat, you push things off of window sills and table tops, if your human
+   sees you pushing something you loose
+
+You are the final boss.
+   you are a dragon in a final fantasy style battle where your greed attracts tougher
+   heros to battle
+
+Evolve
+   you get a set of shapes and breed new shapes from existing shapes. You need to
+   keep your shapes alive however and you can do that by grinding up old shapes into 
+   shape food. your score is based on the number of unique shapes aquired
+
+Light is key
+   (I don't like this one either)
+
+Death is useful
+   You are a necromancer and have cursed yourself, when you die you become stronger
+   making the game easier. the challenge is to beat the game without dying. game is
+   a top down adventure game where you are breaking into a castle to rule the kingdom
+   and cease the ultimate power.
+
+Two points of view
+   you play the same scene twice but from the narrative perspective of two different 
+   characters
+
+Dying planet
+   run around tagging animals for departure, ufo picks them up. your score is based on
+   how many animals you save
+
+It's spreading
+   you work at a toast spreading factory. your job is to butter toast. clicking lowers
+   the knife, then you spread some butter. depending on how much you spread you
+   get money
+
+3 rules
+   I don't like this opne either unless its a cell based game or smth
+
+one enemy only
+   
+one minute
+
+you control the environment
+   You are the inner voice of the player. You are met with dialogue options and you
+   click on inner voice responses. The inner voice responses then affect the character.
+   Has a branching narrative. 
